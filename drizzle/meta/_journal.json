@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1787416937758,
+      "tag": "0000_special_newton_destine",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1787421813659,
+      "tag": "0001_dark_aaron_stack",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1787428893815,
+      "tag": "0002_white_major_mapleleaf",
+      "breakpoints": true
+    }
+  ]
+}

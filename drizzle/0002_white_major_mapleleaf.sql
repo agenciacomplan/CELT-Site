@@ -1,0 +1,1 @@
+ALTER TABLE `agendamentos` ADD `indicador` text DEFAULT '' NOT NULL;
