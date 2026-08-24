@@ -31,8 +31,8 @@ function hasExternalDatabase() {
 }
 
 async function syncWithGoogleSheets(payload: Record<string, unknown>) {
-  const formResponseUrl = process.env.GOOGLE_FORM_RESPONSE_URL;
-  if (!formResponseUrl) return false;
+  const formResponseUrl = process.env.GOOGLE_FORM_RESPONSE_URL ??
+    "https://docs.google.com/forms/d/e/1FAIpQLSc1Sf_qtAnERdLXmWGUaKM6HyLgfvkqMUN0ad6UNhnjm9L2Fw/formResponse";
 
   try {
     const values = new URLSearchParams({
