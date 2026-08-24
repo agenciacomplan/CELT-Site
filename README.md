@@ -94,6 +94,23 @@ actions tied to the current ChatGPT user. Leave public content anonymous.
 - `npm test`: build the starter and verify its rendered loading skeleton
 - `npm run db:generate`: generate Drizzle migrations after schema changes
 
+## Vercel
+
+The Vercel build uses vinext's Nitro adapter and writes a Vercel Build Output
+API bundle to `.vercel/output`. The required build settings are committed in
+`vercel.json`; do not override the output directory in the Vercel dashboard.
+
+The application keeps Cloudflare D1 as its database. Add these encrypted
+environment variables to the Vercel project so the API routes can reach the
+same database through Cloudflare's REST API:
+
+- `CLOUDFLARE_ACCOUNT_ID`
+- `CLOUDFLARE_D1_DATABASE_ID`
+- `CLOUDFLARE_API_TOKEN` with D1 read and write access
+
+`GOOGLE_FORM_RESPONSE_URL` remains optional and enables the existing Google
+Sheets synchronization after a booking is stored successfully.
+
 ## Learn More
 
 - [vinext Documentation](https://github.com/cloudflare/vinext)
