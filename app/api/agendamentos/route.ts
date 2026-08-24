@@ -44,7 +44,7 @@ async function syncWithGoogleSheets(payload: Record<string, unknown>) {
       "entry.1127509795": clean(payload.indicador),
       "entry.2060762394": clean(payload.data),
       "entry.869447640": clean(payload.horario),
-      "entry.162662694": "Confrimar",
+      "entry.162662694": "Confirmar",
     });
 
     const response = await fetch(formResponseUrl, {
