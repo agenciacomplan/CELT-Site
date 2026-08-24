@@ -22,6 +22,14 @@ function todayInSaoPaulo() {
   return new Intl.DateTimeFormat("en-CA", { timeZone: "America/Sao_Paulo", year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date());
 }
 
+function hasExternalDatabase() {
+  return Boolean(
+    process.env.CLOUDFLARE_ACCOUNT_ID &&
+    process.env.CLOUDFLARE_D1_DATABASE_ID &&
+    process.env.CLOUDFLARE_API_TOKEN,
+  );
+}
+
 async function syncWithGoogleSheets(payload: Record<string, unknown>) {
   const formResponseUrl = process.env.GOOGLE_FORM_RESPONSE_URL;
   if (!formResponseUrl) return false;
@@ -58,6 +66,14 @@ export async function GET(request: Request) {
     const data = new URL(request.url).searchParams.get("data") ?? "";
     if (!isWeekday(data)) return Response.json({ indisponiveis: [...HORARIOS] });
 
+    // The original Sites runtime provides D1 as a native binding. Vercel can
+    // query it only when explicit Cloudflare credentials are available. Until
+    // then, keep the booking form usable and let Google Sheets be the source
+    // of truth instead of failing every availability request.
+    if (process.env.VERCEL === "1" && !hasExternalDatabase()) {
+      return Response.json({ indisponiveis: [] });
+    }
+
     const db = getDb();
     const [reservados, bloqueados] = await Promise.all([
       db.select({ horario: agendamentos.horario }).from(agendamentos).where(and(eq(agendamentos.data, data), eq(agendamentos.status, "pendente"))),
@@ -88,6 +104,17 @@ export async function POST(request: Request) {
     }
     const digits = whatsapp.replace(/\D/g, "");
     if (digits.length < 10 || digits.length > 13) return Response.json({ error: "Informe um WhatsApp válido com DDD." }, { status: 400 });
+
+    // On Vercel, the managed Sites D1 binding is not externally accessible.
+    // Submitting straight to the existing Google Form preserves the important
+    // business outcome: every valid booking reaches the linked spreadsheet.
+    if (process.env.VERCEL === "1" && !hasExternalDatabase()) {
+      const sincronizadoPlanilha = await syncWithGoogleSheets({ responsavel, whatsapp, crianca, serie, turno, indicador, data, horario });
+      if (!sincronizadoPlanilha) {
+        return Response.json({ error: "Não foi possível enviar o agendamento para a planilha. Tente novamente." }, { status: 502 });
+      }
+      return Response.json({ ok: true, sincronizadoPlanilha: true }, { status: 201 });
+    }
 
     const db = getDb();
     const blocked = await db.select({ id: bloqueiosAgenda.id }).from(bloqueiosAgenda).where(and(eq(bloqueiosAgenda.data, data), eq(bloqueiosAgenda.horario, horario))).limit(1);
