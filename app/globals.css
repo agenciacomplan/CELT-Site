@@ -266,7 +266,7 @@ footer p { color: var(--muted); font-weight: 700; }
 .edital-content { min-width: 0; }
 .edital-content h2 { display: flex; align-items: center; gap: 15px; color: var(--navy-deep); font-family: var(--font-baloo), sans-serif; font-size: clamp(30px, 3.2vw, 42px); line-height: 1.02; margin: 64px 0 24px; padding-top: 54px; border-top: 1px solid #e3e8ef; }
 .edital-content h2:first-of-type { margin-top: 40px; }
-.edital-content h2 span { flex: none; display: grid; place-items: center; width: 44px; height: 44px; border-radius: 50%; background: var(--orange); color: white; font-family: var(--font-nunito), sans-serif; font-size: 14px; font-weight: 1000; }
+.edital-content h2 span { flex: none; color: var(--navy-deep); font-family: var(--font-baloo), sans-serif; font-size: inherit; font-weight: 900; }
 .edital-content h3 { color: var(--navy); font-family: var(--font-baloo), sans-serif; font-size: 28px; line-height: 1.1; margin: 38px 0 17px; }
 .edital-content h4 { display: inline-flex; background: #eaf5ff; color: var(--blue); border-radius: 999px; padding: 7px 12px; font-size: 13px; margin: 24px 0 10px; }
 .edital-content p, .edital-content li { color: #44556d; font-size: 17px; line-height: 1.7; }
@@ -274,11 +274,7 @@ footer p { color: var(--muted); font-weight: 700; }
 .edital-content strong { color: var(--navy); }
 .edital-content ul { margin: 12px 0 22px; padding-left: 25px; }
 .edital-content li { padding-left: 7px; margin-bottom: 7px; }
-.edital-content li::marker { color: var(--orange); }
-.edital-content .edital-highlight { display: block; width: fit-content; max-width: 100%; background: #fff1e8; border-left: 5px solid var(--orange); border-radius: 0 14px 14px 0; padding: 13px 18px; color: var(--navy); }
-.edital-content .edital-flow-step { margin-top: 28px; background: var(--navy); border-left-color: var(--blue); color: white; }
-.edital-content .edital-flow-step strong { color: white; }
-.edital-content .edital-pending { width: fit-content; max-width: 100%; background: #fff8dc; border: 1px dashed #d5a900; border-radius: 12px; padding: 10px 14px; color: #765b00; font-weight: 900; }
+.edital-content li::marker { color: #8a99ad; }
 .edital-content .edital-letter-item { margin: 0 0 7px 14px; }
 
 @media (max-width: 880px) {
@@ -334,7 +330,7 @@ footer p { color: var(--muted); font-weight: 700; }
   .regulation-content h2 span { width: 36px; height: 36px; margin-top: -2px; }
   .regulation-content p, .regulation-content li { font-size: 16px; }
   .edital-content h2 { align-items: flex-start; font-size: 29px; padding-top: 42px; margin-top: 46px; }
-  .edital-content h2 span { width: 37px; height: 37px; margin-top: -3px; }
+  .edital-content h2 span { margin-top: 0; }
   .edital-content h3 { font-size: 24px; }
   .edital-content p, .edital-content li { font-size: 16px; }
 }
