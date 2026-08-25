@@ -7,11 +7,12 @@ export const metadata: Metadata = {
 };
 
 const EDITAL = String.raw`
-O Centro Educacional Louvor na Terra torna público o presente **Edital do Processo Seletivo de Bolsas 2027**, destinado a candidatos do **1º ao 6º ano do Ensino Fundamental**.
+O **Centro Educacional Louvor na Terra** torna público o presente **Edital do Processo Seletivo de Bolsas 2027**, destinado a candidatos que desejam ingressar do **1º ao 6º ano do Ensino Fundamental** no ano letivo de 2027.
 
-O Processo Seletivo de Bolsas tem como objetivo proporcionar oportunidades de ingresso na instituição por meio de **bolsas por mérito acadêmico**, considerando o desempenho do candidato na avaliação correspondente à série pretendida, a disponibilidade de vagas e a conclusão do processo de admissão.
+O Processo Seletivo tem como objetivo proporcionar oportunidades de ingresso na instituição por meio de **bolsas de estudo por mérito acadêmico**, considerando o desempenho do candidato na avaliação correspondente ao seu nível de ensino, a disponibilidade de vagas na série pretendida e o cumprimento das demais etapas do processo de admissão.
 
 As bolsas previstas neste edital poderão chegar a **80% de desconto sobre o valor integral da mensalidade escolar**.
+
 
 # 1. DO PROCESSO SELETIVO
 
@@ -19,162 +20,199 @@ As bolsas previstas neste edital poderão chegar a **80% de desconto sobre o val
 O Processo Seletivo de Bolsas 2027 será destinado a candidatos que pretendam ingressar do **1º ao 6º ano do Ensino Fundamental no ano letivo de 2027**.
 
 ### 1.2
-A participação no processo seletivo será gratuita.
+A participação no Processo Seletivo será **gratuita**.
 
 ### 1.3
-O candidato deverá realizar sua inscrição previamente por meio do canal oficial divulgado pela escola.
+O candidato deverá realizar sua inscrição previamente por meio dos canais oficiais divulgados pelo Centro Educacional Louvor na Terra.
 
 ### 1.4
-No ato da inscrição, o responsável deverá informar corretamente a série para a qual o candidato pretende ingressar em 2027.
+No ato da inscrição, o responsável deverá informar corretamente os dados do candidato, incluindo a série para a qual pretende ingressar em 2027.
 
 ### 1.5
-Cada candidato poderá participar uma única vez do Processo Seletivo de Bolsas referente ao ano letivo de 2027.
+Cada candidato poderá participar **uma única vez** do Processo Seletivo de Bolsas referente ao ano letivo de 2027.
 
 ### 1.6
-A inscrição no processo seletivo não representa garantia de bolsa ou de matrícula.
+O Processo Seletivo de Bolsas 2027 é destinado à **captação e ao ingresso de novos alunos**.
+
+Por esse motivo, **não poderão participar candidatos que estejam regularmente matriculados no Centro Educacional Louvor na Terra na data da inscrição**.
+
+### 1.7
+Poderão participar normalmente:
+
+a) **ex-alunos** do Centro Educacional Louvor na Terra que não possuam matrícula ativa na instituição no momento da inscrição;
+
+b) **irmãos de alunos regularmente matriculados**, desde que o próprio candidato ainda não seja aluno matriculado no Centro Educacional Louvor na Terra.
+
+### 1.8
+A inscrição no Processo Seletivo não representa garantia de concessão de bolsa ou de matrícula.
 
 A concessão da bolsa e a efetivação da matrícula estarão condicionadas:
 
 - ao desempenho acadêmico obtido;
 - à disponibilidade de vagas na série pretendida;
-- à entrevista com a equipe pedagógica;
+- à participação na entrevista com a equipe pedagógica;
 - à entrega da documentação exigida;
-- e à efetivação da matrícula dentro do prazo estabelecido pela instituição.
+- ao cumprimento das normas de admissão da instituição;
+- e à efetivação da matrícula dentro do prazo estabelecido.
 
-# 2. DATA E LOCAL DA PROVA
+
+# 2. DA DATA, HORÁRIO E LOCAL DA PROVA
 
 ### 2.1
-A prova será realizada no dia:
+**A data e o horário da prova serão comunicados previamente pela equipe do Centro Educacional Louvor na Terra ao responsável, por meio dos dados de contato informados no ato da inscrição.**
 
-**19 de setembro de 2026**
-
-**Horário:** [DEFINIR]
-**Local:** [DEFINIR]
+É responsabilidade do responsável manter os dados de contato atualizados e acompanhar as comunicações realizadas pela instituição.
 
 ### 2.2
-Os candidatos deverão comparecer ao local da prova com, no mínimo, **15 minutos de antecedência**.
+A prova será realizada no:
+
+**Centro Educacional Louvor na Terra**  
+R. Ribeiro de Andrade, 323 - Padre Miguel  
+Rio de Janeiro - RJ  
+CEP 21810-145
 
 ### 2.3
-O responsável deverá apresentar o comprovante ou confirmação de inscrição do candidato.
+Os candidatos deverão comparecer ao local da prova com, no mínimo, **15 minutos de antecedência** ao horário informado.
 
 ### 2.4
-Os materiais necessários para realização da prova serão informados previamente pela escola.
+O responsável deverá apresentar a confirmação de inscrição do candidato, quando solicitada pela equipe da escola.
 
 ### 2.5
+Para a realização da prova, o candidato deverá levar:
+
+- lápis;
+- borracha.
+
+### 2.6
 Não será permitido durante a realização da avaliação:
 
 a) comunicação entre candidatos;
-b) consulta a livros, anotações ou materiais não autorizados;
-c) utilização de celulares, tablets, relógios inteligentes ou equipamentos eletrônicos;
-d) qualquer comportamento que possa proporcionar vantagem indevida ao candidato.
 
-### 2.6
-O descumprimento das regras poderá resultar na eliminação do candidato.
+b) consulta a livros, cadernos, anotações ou qualquer material não autorizado;
+
+c) utilização de celulares, tablets, relógios inteligentes ou outros equipamentos eletrônicos;
+
+d) auxílio de terceiros durante a realização da prova;
+
+e) qualquer conduta que possa proporcionar vantagem indevida em relação aos demais candidatos.
+
+### 2.7
+O descumprimento das regras estabelecidas poderá resultar na eliminação do candidato do Processo Seletivo.
+
 
 # 3. DA AVALIAÇÃO
 
 ### 3.1
-Cada candidato realizará uma avaliação correspondente à etapa de ensino adequada à série para a qual pretende ingressar em 2027.
+Cada candidato realizará uma avaliação correspondente ao seu nível de ensino e adequada à série para a qual pretende ingressar em 2027.
 
 ### 3.2
 As provas avaliarão conhecimentos de:
 
-**Língua Portuguesa**
-**Matemática**
+- **Língua Portuguesa**
+- **Matemática**
 
 ### 3.3
-Todas as avaliações serão convertidas para uma escala de **0 a 10 pontos**, permitindo a aplicação dos critérios de concessão das bolsas previstos neste edital.
+Todas as avaliações terão sua nota final apresentada em uma escala de **0 a 10 pontos**.
 
 ### 3.4
-A comparação entre candidatos de séries diferentes será realizada com base no **desempenho percentual obtido na avaliação correspondente ao nível acadêmico de cada candidato**.
+Os conteúdos avaliados serão compatíveis com o ano escolar cursado pelo candidato em 2026.
 
-# 4. DAS BOLSAS
+### 3.5
+Para fins de concessão das bolsas, será considerado o desempenho obtido pelo candidato na avaliação correspondente ao seu nível de escolaridade.
 
-As bolsas serão concedidas com base no desempenho acadêmico do candidato e estarão sempre condicionadas à disponibilidade de vagas na série pretendida.
+### 3.6
+Por se tratar de candidatos de diferentes séries, as provas poderão possuir conteúdos e níveis de complexidade distintos, sempre respeitando o desenvolvimento acadêmico esperado para cada etapa.
 
-## 4.1 — Bolsa de 80%
+
+# 4. DA DISTRIBUIÇÃO DAS BOLSAS
+
+As bolsas serão concedidas com base no desempenho acadêmico do candidato e estarão condicionadas à **disponibilidade de vagas na série pretendida**.
+
+## 4.1 — BOLSA DE 80%
 
 Será concedida **uma única bolsa de 80% em todo o Processo Seletivo de Bolsas 2027**.
 
-A bolsa será destinada ao candidato que obtiver o **maior desempenho geral entre todos os participantes**, independentemente da série, considerando a avaliação correspondente ao seu nível de ensino.
+A bolsa de 80% será destinada ao candidato que obtiver o **maior desempenho geral entre todos os participantes**, considerando a nota final obtida na avaliação correspondente ao seu nível de ensino.
 
-Considerando o valor integral de referência de **R$ 1.300,00**, o candidato contemplado com a bolsa de 80% terá mensalidade correspondente a:
+Caso ocorra empate na maior nota geral, serão aplicados os critérios de desempate previstos neste edital.
 
-**R$ 260,00.**
 
-## 4.2 — Bolsa de 70%
+## 4.2 — BOLSA DE 70%
 
-Os candidatos que obtiverem **nota igual ou superior a 8,0** poderão conquistar bolsa de:
+Os candidatos que obtiverem **nota igual ou superior a 8,0** estarão elegíveis à concessão de uma bolsa de:
 
 **70% de desconto.**
 
-Considerando o valor integral de referência de R$ 1.300,00, a mensalidade correspondente será de:
-
-**R$ 390,00.**
-
 O candidato contemplado com a bolsa de 80% não acumulará a bolsa de 70%.
 
-## 4.3 — Bolsa de 60%
+
+## 4.3 — BOLSA DE 60%
 
 Os candidatos que obtiverem nota entre:
 
 **7,0 e 7,9**
 
-poderão conquistar bolsa de:
+estarão elegíveis à concessão de uma bolsa de:
 
 **60% de desconto.**
 
-Considerando o valor integral de referência de R$ 1.300,00, a mensalidade correspondente será de:
 
-**R$ 520,00.**
+## 4.4 — CANDIDATOS COM NOTA INFERIOR A 7,0
 
-## 4.4 — Candidatos com nota inferior a 7,0
+O candidato que obtiver nota inferior a 7,0 não fará jus às bolsas de 60%, 70% ou 80% previstas neste Processo Seletivo.
 
-O candidato que obtiver nota inferior a 7,0 não fará jus às bolsas de 60%, 70% ou 80% previstas neste edital.
+Entretanto, havendo disponibilidade de vagas e interesse da família, o candidato poderá prosseguir no **processo regular de admissão e matrícula**, submetendo-se às condições comerciais vigentes da instituição.
 
-A critério da escola e havendo vagas disponíveis, a família poderá prosseguir pelo **processo regular de admissão e matrícula**, submetendo-se às condições comerciais vigentes fora do Processo Seletivo de Bolsas.
 
 # 5. DA DISPONIBILIDADE DE VAGAS
 
 ### 5.1
-O alcance da nota necessária para determinada faixa de bolsa torna o candidato **elegível ao benefício**, mas não garante, isoladamente, a matrícula.
+O alcance da nota correspondente a determinada faixa de bolsa torna o candidato **elegível ao benefício**, mas não garante, isoladamente, a concessão da bolsa ou a matrícula.
 
 ### 5.2
-A concessão definitiva da bolsa dependerá da existência de vaga na série pretendida.
+A concessão definitiva da bolsa estará condicionada à **existência de vaga disponível na série pretendida**.
 
 ### 5.3
-Caso a quantidade de candidatos classificados para determinada série seja superior ao número de vagas disponíveis, será respeitada a ordem de classificação dos candidatos naquela série.
+Caso a quantidade de candidatos elegíveis em determinada série seja superior ao número de vagas disponíveis, será respeitada a **ordem de classificação por desempenho dentro daquela série**.
 
 ### 5.4
-Os demais candidatos poderão compor uma **lista de espera**, seguindo a ordem de desempenho acadêmico.
+Terá prioridade o candidato que possuir a maior nota final.
 
 ### 5.5
-Caso um candidato contemplado não efetive sua matrícula dentro do prazo estabelecido, a vaga poderá ser disponibilizada ao candidato seguinte da lista de classificação.
+Os candidatos classificados que não forem imediatamente contemplados em razão da indisponibilidade de vagas poderão compor uma **lista de espera**.
 
-# 6. DO CRITÉRIO DE DESEMPATE
+### 5.6
+Caso um candidato contemplado não efetive sua matrícula dentro do prazo estabelecido, sua vaga poderá ser oferecida ao candidato seguinte na ordem de classificação.
 
-## 6.1 — Bolsa de 80%
 
-Caso dois ou mais candidatos obtenham a mesma maior nota geral, serão utilizados os seguintes critérios de desempate, sucessivamente:
+# 6. DOS CRITÉRIOS DE DESEMPATE
+
+## 6.1 — BOLSA DE 80%
+
+Caso dois ou mais candidatos obtenham a mesma maior nota geral, serão utilizados, sucessivamente, os seguintes critérios de desempate:
 
 **1º — maior desempenho percentual em Língua Portuguesa;**
 
 **2º — maior desempenho percentual em Matemática;**
 
-**3º — realização de avaliação complementar de desempate, adequada à série de cada candidato;**
+**3º — realização de uma avaliação complementar de desempate, adequada à série de cada candidato;**
 
-**4º — persistindo empate absoluto após a avaliação complementar, poderá ser realizado sorteio documentado entre os candidatos empatados.**
+**4º — persistindo o empate absoluto, poderá ser realizado sorteio documentado entre os candidatos empatados.**
 
 ### 6.2
-A avaliação complementar terá exclusivamente a finalidade de definir o candidato contemplado com a bolsa de 80%.
+A avaliação complementar terá exclusivamente a finalidade de definir o candidato contemplado com a única bolsa de 80%.
 
 ### 6.3
-O candidato que participar do desempate e não conquistar a bolsa de 80% manterá o direito à faixa de bolsa correspondente à sua nota original, observadas as demais condições deste edital.
+O candidato que participar do desempate pela bolsa de 80% e não for contemplado manterá o direito à faixa de bolsa correspondente à sua nota original, observadas a disponibilidade de vagas e as demais condições previstas neste edital.
+
+## 6.4
+Em situações de empate entre candidatos da mesma série quando o número de classificados for superior ao número de vagas disponíveis, serão utilizados os mesmos critérios previstos nos itens anteriores, no que forem aplicáveis.
+
 
 # 7. DO RESULTADO E DA ENTREVISTA PEDAGÓGICA
 
 ### 7.1
-Após a correção das avaliações, as famílias serão comunicadas individualmente pela escola.
+Após a correção e classificação das avaliações, as famílias serão comunicadas individualmente pela equipe do Centro Educacional Louvor na Terra.
 
 ### 7.2
 Os candidatos classificados serão convidados, juntamente com seus responsáveis, para uma **Entrevista de Resultado e Admissão** com a equipe pedagógica.
@@ -187,80 +225,88 @@ A entrevista terá como objetivos:
 - apresentar a proposta pedagógica da instituição;
 - esclarecer dúvidas;
 - verificar o alinhamento entre família e escola;
-- apresentar a bolsa conquistada;
-- e orientar sobre os procedimentos necessários para efetivação da matrícula.
+- apresentar o percentual de bolsa conquistado;
+- orientar sobre o processo de admissão;
+- apresentar os procedimentos e prazos necessários para efetivação da matrícula.
 
 ### 7.4
-A entrevista pedagógica não modificará a nota obtida pelo candidato na prova.
+A entrevista pedagógica não alterará a nota obtida pelo candidato na prova.
 
 ### 7.5
-A aprovação acadêmica e a obtenção de pontuação suficiente para determinada bolsa não dispensam o cumprimento das demais etapas do processo de admissão.
+A obtenção da pontuação correspondente a determinada bolsa não dispensa o candidato do cumprimento das demais etapas do processo de admissão.
+
 
 # 8. DO FLUXO DO PROCESSO SELETIVO
 
 O Processo Seletivo de Bolsas 2027 seguirá as seguintes etapas:
 
-**1. Inscrição**
+## 1ª ETAPA — INSCRIÇÃO
 
-O responsável realiza a inscrição do candidato pelos canais oficiais.
+O responsável realizará a inscrição do candidato por meio dos canais oficiais disponibilizados pelo Centro Educacional Louvor na Terra.
 
-**2. Confirmação**
+## 2ª ETAPA — CONFIRMAÇÃO
 
-A escola confirma data, horário, local, série e orientações para realização da prova.
+A equipe da escola entrará em contato com o responsável para comunicar previamente:
 
-**3. Realização da prova**
+- data;
+- horário;
+- local;
+- orientações para realização da prova.
 
-O candidato realiza a avaliação correspondente ao seu nível acadêmico.
+## 3ª ETAPA — REALIZAÇÃO DA PROVA
 
-**4. Apresentação institucional aos responsáveis**
+O candidato realizará a avaliação correspondente ao seu nível de ensino.
 
-Durante o período destinado à avaliação dos candidatos, a escola poderá realizar uma apresentação para os responsáveis, abordando sua proposta pedagógica, valores, metodologia, estrutura e demais diferenciais institucionais.
+## 4ª ETAPA — APRESENTAÇÃO INSTITUCIONAL AOS RESPONSÁVEIS
 
-**5. Correção e classificação**
+Durante a realização da prova pelos candidatos, os responsáveis poderão participar de uma apresentação institucional promovida pela escola.
 
-As provas serão corrigidas e os candidatos classificados conforme os critérios previstos neste edital.
+## 5ª ETAPA — CORREÇÃO E CLASSIFICAÇÃO
 
-**6. Entrevista de Resultado e Admissão**
+As avaliações serão corrigidas e os candidatos serão classificados conforme os critérios previstos neste edital.
 
-A família será recebida pela equipe da escola para conhecer o resultado, conversar sobre o aluno e conhecer a condição de bolsa conquistada.
+## 6ª ETAPA — ENTREVISTA DE RESULTADO E ADMISSÃO
 
-**7. Apresentação da condição de matrícula**
+A família será recebida pela equipe da instituição para conhecer o desempenho do candidato, conversar sobre o aluno e receber o resultado do Processo Seletivo.
 
-A escola apresentará formalmente o percentual de bolsa e o valor correspondente da mensalidade.
+## 7ª ETAPA — COMUNICAÇÃO DA BOLSA
 
-**8. Prazo para decisão**
+A instituição apresentará formalmente o percentual de bolsa conquistado pelo candidato, observada a disponibilidade de vagas na série pretendida.
 
-A condição de bolsa será reservada pelo prazo informado pela instituição no momento da apresentação do resultado.
+## 8ª ETAPA — PRAZO PARA EFETIVAÇÃO
 
-**9. Efetivação da matrícula**
+Após a comunicação oficial do resultado e da condição de bolsa, a família terá o prazo de **72 horas** para realizar os procedimentos necessários à efetivação da matrícula.
 
-A vaga e a bolsa serão consideradas definitivamente concedidas somente após a conclusão do processo de matrícula.
+## 9ª ETAPA — MATRÍCULA
+
+A vaga e a bolsa serão consideradas definitivamente concedidas após a conclusão do processo de matrícula dentro do prazo estabelecido.
+
 
 # 9. DO PRAZO PARA EFETIVAÇÃO DA MATRÍCULA
 
 ### 9.1
-Após a comunicação oficial do resultado, a família terá o prazo de:
-
-**[48 OU 72 HORAS — DEFINIR]**
-
-para manifestar interesse e realizar os procedimentos necessários para efetivação da matrícula.
+Após a comunicação oficial do resultado e da condição de bolsa, a família terá **72 horas** para realizar os procedimentos necessários à efetivação da matrícula.
 
 ### 9.2
-O não cumprimento do prazo poderá ser interpretado como desistência da vaga e da bolsa.
+O não cumprimento do prazo poderá ser considerado desistência da vaga e do benefício conquistado.
 
 ### 9.3
-Em caso de desistência do candidato contemplado com a bolsa de 80%, o benefício poderá ser transferido ao próximo candidato na classificação geral, respeitados os critérios deste edital.
+Em caso de desistência do candidato contemplado com a bolsa de 80%, o benefício poderá ser concedido ao candidato seguinte na classificação geral, respeitados os critérios deste edital.
 
 ### 9.4
-Nas demais modalidades de bolsa, a vaga poderá ser oferecida ao candidato seguinte da lista de classificação da respectiva série.
+Nas demais modalidades de bolsa, havendo limitação de vagas na respectiva série, a vaga poderá ser disponibilizada ao candidato seguinte da lista de classificação.
 
-# 10. DA VALIDADE DA BOLSA
+### 9.5
+A bolsa somente será considerada efetivamente concedida após a conclusão dos procedimentos de matrícula exigidos pela instituição.
+
+
+# 10. DA VALIDADE, MANUTENÇÃO E RENOVAÇÃO DA BOLSA
 
 ### 10.1
-As bolsas previstas neste edital serão aplicadas às mensalidades escolares referentes ao ano letivo de **2027**.
+As bolsas concedidas por meio do Processo Seletivo de Bolsas 2027 serão válidas para o **ano letivo de 2027**.
 
 ### 10.2
-O desconto incidirá exclusivamente sobre a mensalidade escolar regular, não abrangendo, salvo comunicação expressa da instituição:
+O percentual de bolsa incidirá exclusivamente sobre a mensalidade escolar regular, não abrangendo, salvo comunicação expressa da instituição:
 
 - material didático;
 - uniforme;
@@ -273,21 +319,58 @@ O desconto incidirá exclusivamente sobre a mensalidade escolar regular, não ab
 - ou outras despesas não integrantes da mensalidade regular.
 
 ### 10.3
-A manutenção e eventual renovação do benefício para anos letivos posteriores obedecerão às regras estabelecidas pela instituição e pelo contrato educacional.
+A bolsa poderá ser **renovada para os anos letivos seguintes**, mediante avaliação anual realizada pelo Centro Educacional Louvor na Terra.
 
 ### 10.4
-A bolsa é pessoal e intransferível.
+A renovação da bolsa **não será automática** e estará condicionada ao cumprimento dos seguintes critérios:
+
+a) **desempenho acadêmico satisfatório**, de acordo com os critérios pedagógicos adotados pela instituição;
+
+b) **frequência escolar regular**, respeitados os índices mínimos exigidos pela legislação educacional e pelas normas da escola;
+
+c) **cumprimento das normas disciplinares e de convivência** estabelecidas pela instituição;
+
+d) **adimplência financeira** da família em relação às obrigações previstas no contrato de prestação de serviços educacionais;
+
+e) realização da **rematrícula dentro dos prazos estabelecidos** pela escola;
+
+f) manutenção do adequado **alinhamento e parceria entre família e escola**, de acordo com as normas e os princípios institucionais;
+
+g) cumprimento das demais condições previstas no contrato educacional e nos regulamentos vigentes para o respectivo ano letivo.
 
 ### 10.5
-O benefício não poderá ser convertido em dinheiro, transferido para irmãos ou terceiros nem acumulado com outros descontos ou benefícios, salvo autorização expressa da instituição.
+A eventual renovação da bolsa para o ano letivo seguinte poderá ocorrer com **manutenção ou revisão do percentual anteriormente concedido**, de acordo com os critérios de renovação e a política de bolsas estabelecida pela instituição para o respectivo período.
 
-# 11. CONTEÚDOS DA PROVA
+### 10.6
+Qualquer alteração no percentual da bolsa para o ano letivo seguinte deverá ser comunicada à família previamente ao período de rematrícula.
 
-O candidato deverá estudar conteúdos referentes ao ano escolar que estiver cursando em **2026**, considerando que realizará em 2027 a série seguinte.
+### 10.7
+O não atendimento aos critérios estabelecidos nesta seção poderá resultar na **não renovação da bolsa para o ano letivo seguinte**, sem prejuízo da possibilidade de continuidade do aluno na instituição mediante as condições regulares de matrícula então vigentes.
+
+### 10.8
+A bolsa é **pessoal e intransferível**, sendo vinculada exclusivamente ao aluno contemplado.
+
+### 10.9
+O benefício não poderá ser:
+
+- convertido em dinheiro;
+- transferido para irmãos ou terceiros;
+- acumulado com outros descontos, bolsas ou benefícios;
+
+salvo autorização expressa da instituição.
+
+### 10.10
+A concessão da bolsa para o ano letivo de 2027 não gera direito automático à manutenção do benefício ou do mesmo percentual nos anos subsequentes, estando qualquer renovação sujeita às condições previstas neste edital e às regras vigentes para cada novo período letivo.
+
+
+# 11. DOS CONTEÚDOS DA PROVA
+
+O candidato deverá estudar os conteúdos referentes ao ano escolar que estiver cursando em **2026**, considerando a série em que ingressará em 2027.
+
 
 ## 1º ANO EM 2027
 
-A avaliação será adequada à faixa etária e ao estágio de desenvolvimento da criança.
+A avaliação destinada aos candidatos ao 1º ano será adequada à faixa etária e ao estágio de desenvolvimento da criança.
 
 ### Língua Portuguesa / Linguagem
 
@@ -311,8 +394,9 @@ A avaliação será adequada à faixa etária e ao estágio de desenvolvimento d
 - raciocínio lógico;
 - resolução de situações simples do cotidiano.
 
-## 2º ANO EM 2027
-Candidato cursando o 1º ano em 2026
+
+## 2º ANO EM 2027  
+**Candidato cursando o 1º ano em 2026**
 
 ### Língua Portuguesa
 
@@ -330,8 +414,9 @@ Candidato cursando o 1º ano em 2026
 - medidas de tempo;
 - grandezas e medidas.
 
-## 3º ANO EM 2027
-Candidato cursando o 2º ano em 2026
+
+## 3º ANO EM 2027  
+**Candidato cursando o 2º ano em 2026**
 
 ### Língua Portuguesa
 
@@ -351,8 +436,9 @@ Candidato cursando o 2º ano em 2026
 - medidas de tempo;
 - grandezas e medidas.
 
-## 4º ANO EM 2027
-Candidato cursando o 3º ano em 2026
+
+## 4º ANO EM 2027  
+**Candidato cursando o 3º ano em 2026**
 
 ### Língua Portuguesa
 
@@ -372,8 +458,9 @@ Candidato cursando o 3º ano em 2026
 - calendário;
 - leitura de horas.
 
-## 5º ANO EM 2027
-Candidato cursando o 4º ano em 2026
+
+## 5º ANO EM 2027  
+**Candidato cursando o 4º ano em 2026**
 
 ### Língua Portuguesa
 
@@ -398,8 +485,9 @@ Candidato cursando o 4º ano em 2026
 - operações matemáticas;
 - resolução de situações-problema.
 
-## 6º ANO EM 2027
-Candidato cursando o 5º ano em 2026
+
+## 6º ANO EM 2027  
+**Candidato cursando o 5º ano em 2026**
 
 ### Língua Portuguesa
 
@@ -429,10 +517,11 @@ Candidato cursando o 5º ano em 2026
 - medidas de volume;
 - cálculo de volume.
 
+
 # 12. DA EXPERIÊNCIA NO DIA DA PROVA
 
 ### 12.1
-Durante a realização da avaliação pelos candidatos, os responsáveis poderão participar de uma apresentação institucional promovida pela escola.
+Durante a realização da avaliação pelos candidatos, os responsáveis poderão participar de uma apresentação institucional promovida pelo Centro Educacional Louvor na Terra.
 
 ### 12.2
 Esse momento poderá incluir:
@@ -441,17 +530,17 @@ Esse momento poderá incluir:
 - princípios e valores da instituição;
 - rotina escolar;
 - metodologia de ensino;
-- projetos;
-- diferenciais;
-- estrutura;
+- projetos desenvolvidos pela escola;
+- diferenciais institucionais;
 - apresentação da equipe;
 - visita às dependências da escola;
-- e esclarecimento de dúvidas sobre o ano letivo de 2027.
+- esclarecimento de dúvidas sobre o ano letivo de 2027.
 
 ### 12.3
-A participação nessa apresentação não interfere na pontuação acadêmica do candidato.
+A participação do responsável nessa apresentação não interfere na pontuação acadêmica do candidato.
 
-# 13. DISPOSIÇÕES GERAIS
+
+# 13. DAS DISPOSIÇÕES GERAIS
 
 ### 13.1
 Ao realizar a inscrição, o responsável declara estar ciente e de acordo com as regras estabelecidas neste edital.
@@ -460,26 +549,31 @@ Ao realizar a inscrição, o responsável declara estar ciente e de acordo com a
 As bolsas estão vinculadas exclusivamente ao candidato contemplado e à série para a qual foi inscrito.
 
 ### 13.3
-A mudança de série, modalidade ou condição originalmente contratada poderá exigir nova análise pela instituição.
+A mudança de série ou de condição originalmente contratada poderá exigir nova análise pela instituição.
 
 ### 13.4
-A escola poderá solicitar documentos complementares necessários ao processo de matrícula.
+A escola poderá solicitar documentos complementares necessários ao processo de admissão e matrícula.
 
 ### 13.5
-A escola reserva-se o direito de alterar datas e horários por motivo de força maior, mediante comunicação prévia aos candidatos inscritos.
+A instituição reserva-se o direito de alterar datas ou horários por motivo de força maior, mediante comunicação aos candidatos inscritos através dos contatos fornecidos no momento da inscrição.
 
 ### 13.6
-Situações não previstas neste edital serão analisadas pela Direção do Centro Educacional Louvor na Terra.
+A concessão das bolsas estará sempre condicionada ao número de vagas efetivamente disponíveis em cada turma.
 
 ### 13.7
-A participação no Processo Seletivo implica ciência de que a bolsa corresponde a um **benefício educacional condicionado às regras deste edital e à disponibilidade de vagas**, não constituindo direito automático à matrícula apenas pela obtenção de determinada pontuação.
+A participação no Processo Seletivo implica ciência de que a obtenção de determinada pontuação torna o candidato elegível ao respectivo percentual de bolsa, mas **não constitui, isoladamente, direito automático à matrícula**, que dependerá da existência de vaga e do cumprimento das demais etapas previstas neste edital.
 
-**Centro Educacional Louvor na Terra**
-**Processo Seletivo de Bolsas 2027**
+### 13.8
+Casos excepcionais ou situações não previstas neste edital serão analisados pela Direção do Centro Educacional Louvor na Terra.
 
-[ENDEREÇO]
-[TELEFONE / WHATSAPP]
-[SITE / LINK DE INSCRIÇÃO]
+
+# CENTRO EDUCACIONAL LOUVOR NA TERRA
+
+**R. Ribeiro de Andrade, 323 - Padre Miguel**  
+**Rio de Janeiro - RJ - CEP 21810-145**
+
+**WhatsApp:** (21) 97338-3147  
+**Site:** celouvornaterra.com.br
 `;
 
 function renderInline(text: string): ReactNode[] {
@@ -523,12 +617,8 @@ function renderEdital(markdown: string) {
     } else if (line.startsWith("### ")) {
       nodes.push(<h4 key={`h4-${key++}`}>{renderInline(line.slice(4))}</h4>);
     } else {
-      const pending = /\[(?:DEFINIR|48 OU 72 HORAS|ENDEREÇO|TELEFONE|SITE)/.test(line);
-      const standaloneBold = /^\*\*.+\*\*$/.test(line);
-      const flowStep = /^\*\*\d+\.\s/.test(line);
-      const letterItem = /^[a-d]\)/.test(line);
-      const className = [pending && "edital-pending", standaloneBold && "edital-highlight", flowStep && "edital-flow-step", letterItem && "edital-letter-item"].filter(Boolean).join(" ") || undefined;
-      nodes.push(<p className={className} key={`p-${key++}`}>{renderInline(line)}</p>);
+      const letterItem = /^[a-g]\)/.test(line);
+      nodes.push(<p className={letterItem ? "edital-letter-item" : undefined} key={`p-${key++}`}>{renderInline(line)}</p>);
     }
   }
   flushList();
@@ -562,13 +652,12 @@ export default function ScholarshipNoticePage() {
 
       <section className="regulation-shell edital-shell">
         <aside className="regulation-summary edital-summary">
-          <span>Data da prova</span>
-          <strong>19 de setembro de 2026</strong>
+          <span>Informações da prova</span>
+          <strong>Comunicadas pela equipe</strong>
           <dl>
             <div><dt>Participação</dt><dd>Gratuita</dd></div>
             <div><dt>Séries</dt><dd>1º ao 6º ano</dd></div>
-            <div><dt>Horário</dt><dd>A definir</dd></div>
-            <div><dt>Local</dt><dd>A definir</dd></div>
+            <div><dt>Local</dt><dd>Padre Miguel</dd></div>
           </dl>
         </aside>
         <article className="edital-content">{renderEdital(EDITAL)}</article>
@@ -581,3 +670,4 @@ export default function ScholarshipNoticePage() {
     </main>
   );
 }
+
