@@ -38,7 +38,7 @@ export default function BolsaoPage() {
           </div>
         </div>
         <div className="bs-hero-visual" aria-label="Estudantes do Centro Educacional Louvor na Terra">
-          <Image src="/celt-a3-3.png" alt="Estudantes do Centro Educacional Louvor na Terra e informações sobre bolsas de até 80%" fill priority sizes="(max-width: 800px) 100vw, 46vw" />
+          <Image src="/celt-a3-web.jpg" alt="Estudantes do Centro Educacional Louvor na Terra e informações sobre bolsas de até 80%" fill priority sizes="(max-width: 800px) 100vw, 46vw" />
         </div>
       </section>
 
