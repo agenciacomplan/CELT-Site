@@ -1,0 +1,153 @@
+.bolsao-page {
+  --bs-navy: #06285f;
+  --bs-navy-deep: #031b45;
+  --bs-blue: #0878d9;
+  --bs-orange: #ef5b08;
+  --bs-orange-dark: #d94500;
+  background: #f7f5ef;
+  color: #0a2b5e;
+  min-height: 100vh;
+}
+
+.bs-header { align-items: center; display: flex; justify-content: space-between; margin: 0 auto; max-width: 1240px; padding: 22px 34px; }
+.bs-brand { display: inline-flex; flex-direction: column; line-height: 1; text-transform: uppercase; }
+.bs-brand span { font-size: 11px; font-weight: 900; letter-spacing: .28em; }
+.bs-brand strong { color: var(--bs-orange); font-family: var(--font-baloo), sans-serif; font-size: 26px; line-height: .95; }
+.bs-header nav { align-items: center; display: flex; gap: 28px; }
+.bs-nav-link { font-size: 14px; font-weight: 800; }
+.bs-header-cta, .bs-primary-cta, .bs-secondary-cta { align-items: center; border-radius: 999px; display: inline-flex; font-weight: 900; justify-content: center; transition: transform .2s ease, background .2s ease; }
+.bs-header-cta { background: var(--bs-navy); color: white; font-size: 14px; padding: 13px 20px; }
+.bs-header-cta:hover, .bs-primary-cta:hover, .bs-secondary-cta:hover { transform: translateY(-2px); }
+
+.bs-hero { display: grid; grid-template-columns: minmax(0, 1.06fr) minmax(380px, .94fr); margin: 0 auto; max-width: 1240px; min-height: 690px; overflow: hidden; padding: 28px 34px 48px; }
+.bs-hero-copy { align-self: center; max-width: 650px; padding: 26px 0 36px; position: relative; z-index: 2; }
+.bs-eyebrow { align-items: center; color: var(--bs-orange-dark); display: inline-flex; font-size: 13px; font-weight: 900; gap: 8px; letter-spacing: .09em; text-transform: uppercase; }
+.bs-hero h1 { color: var(--bs-navy-deep); font-family: var(--font-baloo), sans-serif; font-size: clamp(72px, 8.3vw, 116px); letter-spacing: -.06em; line-height: .78; margin: 24px 0 28px; }
+.bs-hero h1 span { color: var(--bs-orange); display: block; font-size: 1.1em; }
+.bs-hero-lead { color: var(--bs-navy); font-size: clamp(22px, 2.25vw, 31px); font-weight: 800; line-height: 1.16; margin: 0 0 28px; max-width: 540px; }
+.bs-hero-lead strong { color: var(--bs-orange-dark); }
+.bs-scholarship-card { align-items: stretch; background: var(--bs-navy); border-radius: 26px; color: white; display: flex; margin-bottom: 28px; max-width: 500px; overflow: hidden; }
+.bs-scholarship-card > div { align-items: center; border-right: 1px solid rgb(255 255 255 / 23%); display: flex; gap: 12px; padding: 16px 24px; }
+.bs-scholarship-card > div span { font-size: 14px; font-weight: 900; line-height: 1.05; max-width: 66px; text-transform: uppercase; }
+.bs-scholarship-card > div strong { font-family: var(--font-baloo), sans-serif; font-size: 56px; line-height: .9; }
+.bs-scholarship-card p { display: flex; flex: 1; flex-direction: column; justify-content: center; margin: 0; padding: 14px 22px; }
+.bs-scholarship-card p b { color: #ff7a27; font-size: 21px; text-transform: uppercase; }
+.bs-scholarship-card p small { color: #d8e3f4; font-size: 12px; font-weight: 700; }
+.bs-actions { display: flex; flex-wrap: wrap; gap: 12px; }
+.bs-primary-cta { background: var(--bs-orange); box-shadow: 0 14px 32px rgb(217 69 0 / 22%); color: white; gap: 12px; padding: 17px 24px; }
+.bs-primary-cta span { font-size: 20px; }
+.bs-secondary-cta { border: 2px solid var(--bs-navy); gap: 9px; padding: 15px 22px; }
+.bs-hero-visual { align-self: stretch; background: white; border-radius: 38px; min-height: 610px; overflow: hidden; position: relative; }
+.bs-hero-visual > img { height: 100% !important; inset: 0 !important; object-fit: contain !important; object-position: center bottom !important; width: 100% !important; }
+
+.bs-event-strip { background: var(--bs-navy); color: white; display: grid; grid-template-columns: .75fr 1.2fr 1.15fr; margin: 0 auto; max-width: 1240px; padding: 27px 34px; }
+.bs-event-strip article { align-items: flex-start; display: flex; gap: 14px; padding: 3px 28px; }
+.bs-event-strip article + article { border-left: 1px solid rgb(255 255 255 / 20%); }
+.bs-info-icon { align-items: center; background: var(--bs-orange); border-radius: 13px; display: flex; flex: 0 0 auto; font-size: 23px; height: 43px; justify-content: center; width: 43px; }
+.bs-event-strip small { color: #ff9d61; display: block; font-size: 11px; font-weight: 900; letter-spacing: .1em; margin-bottom: 3px; text-transform: uppercase; }
+.bs-event-strip strong { display: block; font-size: 16px; line-height: 1.2; }
+.bs-event-strip p { color: #cdd9eb; font-size: 12px; line-height: 1.3; margin: 3px 0 0; }
+
+.bs-how { background: linear-gradient(135deg, var(--bs-navy-deep), #064482); color: white; margin-top: 90px; padding: 92px max(34px, calc((100vw - 1172px) / 2)); }
+.bs-section-heading { max-width: 720px; }
+.bs-eyebrow.bs-light { color: #ff9d61; }
+.bs-section-heading h2, .bs-registration-intro h2 { font-family: var(--font-baloo), sans-serif; font-size: clamp(42px, 5vw, 66px); letter-spacing: -.035em; line-height: .95; margin: 18px 0; }
+.bs-section-heading p { color: #cdd9eb; font-size: 19px; line-height: 1.55; }
+.bs-steps { display: grid; gap: 18px; grid-template-columns: repeat(3, 1fr); margin-top: 50px; }
+.bs-steps article { background: rgb(255 255 255 / 8%); border: 1px solid rgb(255 255 255 / 14%); border-radius: 25px; min-height: 230px; padding: 28px; position: relative; }
+.bs-steps article > span { color: rgb(255 255 255 / 14%); font-family: var(--font-baloo), sans-serif; font-size: 66px; font-weight: 800; position: absolute; right: 20px; top: 10px; }
+.bs-steps article > b { color: #ff7a27; font-size: 34px; }
+.bs-steps h3 { font-family: var(--font-baloo), sans-serif; font-size: 25px; margin: 34px 0 7px; }
+.bs-steps p { color: #cdd9eb; line-height: 1.5; margin: 0; }
+
+.bs-registration { display: grid; gap: 55px; grid-template-columns: minmax(280px, .72fr) minmax(560px, 1.28fr); margin: 0 auto; max-width: 1240px; padding: 100px 34px; }
+.bs-registration-intro { align-self: start; position: sticky; top: 28px; }
+.bs-registration-intro h2 { color: var(--bs-navy-deep); }
+.bs-registration-intro > p { color: #5f6f87; font-size: 18px; line-height: 1.55; }
+.bs-notice { align-items: center; background: #fff; border: 1px solid #dce4ef; border-radius: 20px; box-shadow: 0 14px 36px rgb(3 27 69 / 8%); display: flex; gap: 13px; margin-top: 26px; padding: 18px; }
+.bs-notice > b { color: var(--bs-orange); font-size: 25px; }
+.bs-notice > i { font-size: 20px; font-style: normal; margin-left: auto; }
+.bs-notice span { display: flex; flex: 1; flex-direction: column; font-size: 12px; line-height: 1.35; }
+.bs-notice strong { font-size: 15px; }
+
+.bs-form-card { background: white; border-radius: 30px; box-shadow: 0 24px 70px rgb(3 27 69 / 12%); color: #0a2b5e; overflow: hidden; padding: 40px; }
+.bolsao-page .bs-form { display: block; }
+.bs-form fieldset { border: 0; margin: 0 0 42px; padding: 0; }
+.bs-form legend { align-items: center; color: var(--bs-navy-deep); display: flex; font-family: var(--font-baloo), sans-serif; font-size: 25px; font-weight: 800; gap: 11px; margin-bottom: 24px; }
+.bs-form legend span { align-items: center; background: var(--bs-orange); border-radius: 50%; color: white; display: flex; font-family: var(--font-nunito), sans-serif; font-size: 13px; height: 30px; justify-content: center; width: 30px; }
+.bs-form-grid { display: grid; gap: 20px 16px; grid-template-columns: 1fr 1fr; }
+.bs-field { display: flex; flex-direction: column; gap: 7px; }
+.bs-field > span { color: var(--bs-navy); font-size: 13px; font-weight: 900; }
+.bs-field em { color: var(--bs-orange); font-style: normal; }
+.bs-field small { color: #8090a7; font-size: 11px; font-weight: 700; margin-left: 5px; }
+.bolsao-page .bs-field input, .bolsao-page .bs-field select { background: #fbfcfe; border: 1px solid #ccd6e3; border-radius: 14px; color: var(--bs-navy); min-height: 52px; outline: 0; padding: 0 15px; width: 100%; }
+.bolsao-page .bs-field input:focus, .bolsao-page .bs-field select:focus { border-color: #1598f2; box-shadow: 0 0 0 3px rgb(21 152 242 / 13%); }
+.bs-wide { grid-column: 1 / -1; }
+.bs-first-school { align-items: center; background: #eef4fb; border-radius: 16px; display: flex; justify-content: space-between; padding: 17px 19px; }
+.bs-first-school > span { display: flex; flex-direction: column; }
+.bs-first-school strong { font-size: 14px; }
+.bs-first-school small { color: #65758d; font-size: 12px; }
+.bs-switch { display: block; position: relative; }
+.bolsao-page .bs-switch input { height: 1px; opacity: 0; position: absolute; width: 1px; }
+.bs-switch i { background: #cbd6e5; border-radius: 999px; display: block; height: 25px; position: relative; transition: .2s; width: 44px; }
+.bs-switch i::after { background: white; border-radius: 50%; content: ""; height: 21px; left: 2px; position: absolute; top: 2px; transition: .2s; width: 21px; }
+.bs-switch input:checked + i { background: var(--bs-blue); }
+.bs-switch input:checked + i::after { transform: translateX(19px); }
+.bs-switch input:focus-visible + i { box-shadow: 0 0 0 3px rgb(21 152 242 / 25%); }
+.bs-privacy { align-items: flex-start; color: #5f6f87; display: grid; font-size: 12px; gap: 11px; grid-template-columns: 20px 1fr; line-height: 1.45; }
+.bolsao-page .bs-privacy input { accent-color: var(--bs-blue); height: 19px; min-height: 0; padding: 0; width: 19px; }
+.bs-privacy label { font-size: 12px; font-weight: 400; }
+.bs-submit { background: var(--bs-orange); border: 0; border-radius: 999px; color: white; cursor: pointer; font-size: 16px; font-weight: 900; min-height: 56px; margin-top: 22px; transition: background .2s, opacity .2s, transform .2s; width: 100%; }
+.bs-submit:not(:disabled):hover { background: var(--bs-orange-dark); transform: translateY(-1px); }
+.bs-submit:disabled { cursor: not-allowed; opacity: .56; }
+.bs-form-note { color: #738299; font-size: 11px; margin: 10px 0 0; text-align: center; }
+.bs-error { background: #fff1ee; border: 1px solid #ffc7bb; border-radius: 12px; color: #a6311a; font-size: 13px; font-weight: 800; margin: 12px 0 0; padding: 12px 14px; text-align: center; }
+.bs-success { align-items: center; display: flex; flex-direction: column; justify-content: center; min-height: 520px; text-align: center; }
+.bs-success-icon { align-items: center; background: #e6f6ee; border-radius: 50%; color: #087744; display: flex; font-size: 34px; font-weight: 900; height: 68px; justify-content: center; margin-bottom: 20px; width: 68px; }
+.bs-success h3 { color: var(--bs-navy-deep); font-family: var(--font-baloo), sans-serif; font-size: 38px; line-height: 1.05; margin: 12px 0; }
+.bs-success p { color: #5f6f87; line-height: 1.55; margin: 0; max-width: 430px; }
+.bs-success .bs-submit { max-width: 360px; }
+
+.bs-footer { align-items: center; background: white; display: flex; gap: 28px; justify-content: space-between; min-height: auto; padding: 42px max(34px, calc((100vw - 1172px) / 2)); }
+.bs-footer p { color: #66768e; font-size: 13px; margin: 0; }
+.bs-footer > a { color: var(--bs-orange-dark); font-size: 13px; font-weight: 900; }
+
+@media (max-width: 980px) {
+  .bs-hero { grid-template-columns: 1fr .8fr; }
+  .bs-hero h1 { font-size: 78px; }
+  .bs-event-strip { grid-template-columns: 1fr; }
+  .bs-event-strip article { padding: 16px 4px; }
+  .bs-event-strip article + article { border-left: 0; border-top: 1px solid rgb(255 255 255 / 20%); }
+  .bs-registration { grid-template-columns: 1fr; }
+  .bs-registration-intro { position: static; }
+}
+
+@media (max-width: 760px) {
+  .bs-header { padding: 18px 20px; }
+  .bs-brand span { font-size: 8px; }
+  .bs-brand strong { font-size: 21px; }
+  .bs-nav-link { display: none; }
+  .bs-header-cta { font-size: 12px; padding: 11px 15px; }
+  .bs-hero { grid-template-columns: 1fr; padding: 26px 20px 32px; }
+  .bs-hero-copy { padding: 12px 0 28px; }
+  .bs-hero h1 { font-size: clamp(69px, 24vw, 98px); margin-top: 20px; }
+  .bs-hero-visual { min-height: 520px; }
+  .bs-scholarship-card { max-width: none; }
+  .bs-event-strip { margin: 0 20px; padding: 18px 22px; }
+  .bs-how { margin-top: 70px; padding: 72px 20px; }
+  .bs-steps { grid-template-columns: 1fr; }
+  .bs-registration { padding: 76px 20px; }
+  .bs-form-card { border-radius: 24px; padding: 25px 18px; }
+  .bs-form-grid { grid-template-columns: 1fr; }
+  .bs-wide { grid-column: auto; }
+  .bs-footer { align-items: flex-start; flex-direction: column; padding: 36px 20px; }
+}
+
+@media (max-width: 470px) {
+  .bs-actions { flex-direction: column; }
+  .bs-primary-cta, .bs-secondary-cta { width: 100%; }
+  .bs-scholarship-card { flex-direction: column; }
+  .bs-scholarship-card > div { border-bottom: 1px solid rgb(255 255 255 / 23%); border-right: 0; justify-content: center; }
+  .bs-scholarship-card p { text-align: center; }
+  .bs-hero-visual { min-height: 470px; }
+}
