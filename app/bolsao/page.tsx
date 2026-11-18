@@ -43,7 +43,7 @@ export default function BolsaoPage() {
       </section>
 
       <section className="bs-event-strip" aria-label="Informações da prova">
-        <article><span className="bs-info-icon" aria-hidden="true">▣</span><div><small>Próxima data</small><strong>31 de outubro</strong></div></article>
+        <article><span className="bs-info-icon" aria-hidden="true">▣</span><div><small>Próxima data</small><strong>12 de dezembro</strong></div></article>
         <article><span className="bs-info-icon" aria-hidden="true">⌖</span><div><small>Local</small><strong>R. Ribeiro de Andrade, 323 — Padre Miguel</strong><p>Rio de Janeiro — RJ, 21810-145</p></div></article>
         <article><span className="bs-info-icon" aria-hidden="true">◷</span><div><small>Horário</small><strong>Comunicado pela equipe</strong><p>O horário correspondente ao turno será informado nos dias que antecedem a prova.</p></div></article>
       </section>
@@ -56,7 +56,7 @@ export default function BolsaoPage() {
         </div>
         <div className="bs-steps">
           <article><span>01</span><b aria-hidden="true">◎</b><h3>Escolha a série</h3><p>Inscrições abertas do 1º ao 6º ano para o ano letivo de 2027.</p></article>
-          <article><span>02</span><b aria-hidden="true">★</b><h3>Participe da prova</h3><p>A avaliação acontece presencialmente no dia 31 de outubro.</p></article>
+          <article><span>02</span><b aria-hidden="true">★</b><h3>Participe da prova</h3><p>A avaliação acontece presencialmente no dia 12 de dezembro.</p></article>
           <article><span>03</span><b aria-hidden="true">✓</b><h3>Concorra à bolsa</h3><p>Os melhores desempenhos poderão conquistar bolsas de até 80%.</p></article>
         </div>
       </section>
